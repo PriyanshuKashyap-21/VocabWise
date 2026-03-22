@@ -1,0 +1,153 @@
+/* Background */
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: #343541;
+    color: #ececf1;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.heading {
+    font-size: 28px;
+    margin-top: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Home Button */
+#HomeBtn {
+    position: fixed;
+    top: 20px;
+    left: 140px;
+    
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid #565869;
+    background: #40414f;
+    color: #ececf1;
+    
+    cursor: pointer;
+    z-index: 1000;
+}
+
+#HomeBtn:hover {
+    background: #50525f;
+}
+
+/* SearchBar */
+#searchInput {
+    width: 70%;
+    padding: 16px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+    border: 1px solid #565869;
+    font-size: 15px;
+    outline: none;
+    background: #40414f;
+    color: #ececf1;
+    appearance: none;
+}
+
+#searchInput::placeholder {
+    color: #8e8ea0;
+}
+
+#searchInput:hover {
+    background: #50525f;
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 2px rgba(16,163,127,0.2);
+
+}
+
+/* Cards */
+.word-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #d1d1e0;
+    text-transform: capitalize;
+
+}
+
+p {
+    margin: 5px 0;
+    color: #d1d1e0;
+}
+
+.card-section {
+    background: #444654;
+    padding: 16px;
+    margin: 12px auto;
+    width: 90%;
+    border-radius: 10px;
+    transition: 0.2s;
+    line-height: 1.6;
+}
+
+.card-section:hover {
+    background: #50525f;
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 2px rgba(16,163,127,0.2);
+
+}
+
+/* Welcome and End Screen */
+.welcome, .end-message {
+    text-align: center;
+    margin-top: 80px;
+    color: #b4b4c8;
+}
+
+/* Buttons */
+button {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 20px 5px;
+    border-radius: 8px;
+    border: 1px solid #565869;
+    background: #40414f;
+    color: #ececf1;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.button-section {
+    text-align: center;
+    width: 90%;
+    margin-top: 20px auto;
+    display: flex;
+
+}
+
+button:hover {
+    background: #4e4f60;
+}
+
+#PrevBtn {
+    position: absolute;
+    left: 140px;
+}
+
+#NextBtn {
+    position: absolute;
+    right: 140px;
+}
+
+#PrevBtn, #NextBtn {
+    min-width: 120px;
+    text-align: center;
+}
+

@@ -1,0 +1,782 @@
+[
+  {
+    "word": "ability",
+    "meaning": "the power or skill to do something",
+    "context": "used to describe a person's capability or talent.",
+    "example": "She has the ability to solve complex problems."
+  },
+  {
+    "word": "accept",
+    "meaning": "to agree to receive or approve something",
+    "context": "used when someone agrees to take or approve something offered.",
+    "example": "He decided to accept the job offer."
+  },
+  {
+    "word": "achieve",
+    "meaning": "to successfully reach a goal",
+    "context": "used when someone completes or accomplishes something through effort.",
+    "example": "She worked hard to achieve her dreams."
+  },
+  {
+    "word": "active",
+    "meaning": "engaging in action or movement",
+    "context": "used to describe someone who is energetic or involved in activities.",
+    "example": "He leads an active lifestyle."
+  },
+  {
+    "word": "answer",
+    "meaning": "a response to a question or problem",
+    "context": "used when replying to a question or solving a problem.",
+    "example": "She gave the correct answer in class."
+  },
+  {
+    "word": "balance",
+    "meaning": "a state in which different things are equal or in the correct proportion",
+    "context": "used when describing stability or equal distribution.",
+    "example": "She tries to maintain a balance between work and life."
+  },
+  {
+    "word": "basic",
+    "meaning": "simple and fundamental",
+    "context": "used to describe something simple or essential.",
+    "example": "He explained the basic rules of the game."
+  },
+  {
+    "word": "believe",
+    "meaning": "to accept something as true",
+    "context": "used when trusting that something is real or true.",
+    "example": "I believe in hard work and honesty."
+  },
+  {
+    "word": "benefit",
+    "meaning": "an advantage or positive result",
+    "context": "used when something provides help or improvement.",
+    "example": "Regular exercise has many health benefits."
+  },
+  {
+    "word": "build",
+    "meaning": "to construct or create something",
+    "context": "used when making or developing something step by step.",
+    "example": "They plan to build a new library."
+  },
+  {
+    "word": "change",
+    "meaning": "to make or become different",
+    "context": "used when something becomes different from its previous state.",
+    "example": "She decided to change her daily routine."
+  },
+  {
+    "word": "choice",
+    "meaning": "an option or decision between two or more possibilities",
+    "context": "used when selecting one option from several alternatives.",
+    "example": "You have a choice between tea and coffee."
+  },
+  {
+    "word": "clear",
+    "meaning": "easy to understand or see",
+    "context": "used when something is simple and not confusing.",
+    "example": "The teacher gave a clear explanation."
+  },
+  {
+    "word": "create",
+    "meaning": "to make something new",
+    "context": "used when producing or bringing something into existence.",
+    "example": "They plan to create a new mobile app."
+  },
+  {
+    "word": "common",
+    "meaning": "occurring often or shared by many people",
+    "context": "used to describe something frequent or widely known.",
+    "example": "It is common to feel nervous before an exam."
+  },
+  {
+    "word": "decide",
+    "meaning": "to make a choice after thinking about options",
+    "context": "used when selecting something after consideration.",
+    "example": "She decided to continue her studies."
+  },
+  {
+    "word": "develop",
+    "meaning": "to grow or improve over time",
+    "context": "used when something becomes more advanced or complete.",
+    "example": "He worked hard to develop his skills."
+  },
+  {
+    "word": "difference",
+    "meaning": "a point in which things are not the same",
+    "context": "used when comparing two or more things.",
+    "example": "There is a big difference between theory and practice."
+  },
+  {
+    "word": "difficult",
+    "meaning": "hard to do or understand",
+    "context": "used when something requires effort or is challenging.",
+    "example": "The exam was difficult but fair."
+  },
+  {
+    "word": "discover",
+    "meaning": "to find something for the first time",
+    "context": "used when learning or finding something new.",
+    "example": "Scientists discovered a new planet."
+  },
+  {
+    "word": "early",
+    "meaning": "before the usual or expected time",
+    "context": "used when something happens sooner than planned or expected.",
+    "example": "She arrived early for the meeting."
+  },
+  {
+    "word": "easy",
+    "meaning": "not difficult",
+    "context": "used to describe something that requires little effort.",
+    "example": "The test was easy to complete."
+  },
+  {
+    "word": "education",
+    "meaning": "the process of learning or gaining knowledge",
+    "context": "used when referring to formal learning in schools or institutions.",
+    "example": "Education plays an important role in success."
+  },
+  {
+    "word": "effect",
+    "meaning": "a result or outcome caused by something",
+    "context": "used when describing the result of an action or event.",
+    "example": "The medicine had a positive effect."
+  },
+  {
+    "word": "effort",
+    "meaning": "physical or mental energy used to do something",
+    "context": "used when someone tries hard to achieve something.",
+    "example": "She put a lot of effort into her project."
+  },
+  {
+    "word": "fact",
+    "meaning": "something that is true or proven",
+    "context": "used when referring to information that is real and verified.",
+    "example": "It is a fact that water boils at 100 degrees Celsius."
+  },
+  {
+    "word": "fail",
+    "meaning": "to not succeed",
+    "context": "used when someone does not achieve the desired result.",
+    "example": "He did not want to fail the exam."
+  },
+  {
+    "word": "family",
+    "meaning": "a group of related people",
+    "context": "used when talking about parents, children, and relatives.",
+    "example": "She spent the weekend with her family."
+  },
+  {
+    "word": "focus",
+    "meaning": "to concentrate attention on something",
+    "context": "used when giving full attention to a task or goal.",
+    "example": "He needs to focus on his studies."
+  },
+  {
+    "word": "future",
+    "meaning": "the time that is yet to come",
+    "context": "used when referring to events that will happen later.",
+    "example": "She is planning for her future career."
+  },
+  {
+    "word": "gain",
+    "meaning": "to obtain or achieve something",
+    "context": "used when someone gets something beneficial through effort.",
+    "example": "She worked hard to gain experience."
+  },
+  {
+    "word": "goal",
+    "meaning": "an aim or desired result",
+    "context": "used when referring to something a person wants to achieve.",
+    "example": "His goal is to become a successful developer."
+  },
+  {
+    "word": "growth",
+    "meaning": "the process of increasing or developing",
+    "context": "used when something becomes larger or improves over time.",
+    "example": "The company experienced rapid growth."
+  },
+  {
+    "word": "group",
+    "meaning": "a number of people or things together",
+    "context": "used when referring to a collection of individuals or items.",
+    "example": "A group of students attended the workshop."
+  },
+  {
+    "word": "guide",
+    "meaning": "to show or direct someone in a particular way",
+    "context": "used when helping someone understand or move in the right direction.",
+    "example": "The teacher guided the students through the project."
+  },
+  {
+    "word": "habit",
+    "meaning": "a regular practice or behavior",
+    "context": "used when describing something done repeatedly over time.",
+    "example": "Reading daily is a good habit."
+  },
+  {
+    "word": "happy",
+    "meaning": "feeling pleasure or satisfaction",
+    "context": "used to describe a positive emotional state.",
+    "example": "She felt happy after finishing her work."
+  },
+  {
+    "word": "health",
+    "meaning": "the condition of being physically and mentally well",
+    "context": "used when referring to overall physical or mental well-being.",
+    "example": "Regular exercise improves health."
+  },
+  {
+    "word": "help",
+    "meaning": "to assist or support someone",
+    "context": "used when providing aid or support.",
+    "example": "He offered to help his friend."
+  },
+  {
+    "word": "hope",
+    "meaning": "a feeling of expectation or desire for something to happen",
+    "context": "used when expressing a wish for a positive outcome.",
+    "example": "She hopes to travel abroad next year."
+  },
+  {
+    "word": "idea",
+    "meaning": "a thought or suggestion about something",
+    "context": "used when referring to a plan, concept, or mental impression.",
+    "example": "She shared a creative idea for the project."
+  },
+  {
+    "word": "important",
+    "meaning": "having great value or significance",
+    "context": "used when something has strong impact or priority.",
+    "example": "Education is important for personal growth."
+  },
+  {
+    "word": "improve",
+    "meaning": "to make or become better",
+    "context": "used when something increases in quality or performance.",
+    "example": "He practices daily to improve his skills."
+  },
+  {
+    "word": "include",
+    "meaning": "to contain or involve as part of a whole",
+    "context": "used when adding something as part of a group or set.",
+    "example": "The package includes free delivery."
+  },
+  {
+    "word": "interest",
+    "meaning": "a feeling of curiosity or concern about something",
+    "context": "used when someone wants to learn more about a topic.",
+    "example": "She has a strong interest in technology."
+  },
+  {
+    "word": "job",
+    "meaning": "a paid position of employment",
+    "context": "used when referring to work done to earn money.",
+    "example": "He found a new job in a software company."
+  },
+  {
+    "word": "join",
+    "meaning": "to become a member of something",
+    "context": "used when entering or becoming part of a group or activity.",
+    "example": "She decided to join the coding club."
+  },
+  {
+    "word": "journey",
+    "meaning": "an act of traveling from one place to another",
+    "context": "used when describing travel over a distance.",
+    "example": "Their journey took five hours."
+  },
+  {
+    "word": "judge",
+    "meaning": "to form an opinion about something",
+    "context": "used when evaluating or deciding about someone or something.",
+    "example": "Do not judge a book by its cover."
+  },
+  {
+    "word": "justice",
+    "meaning": "fair treatment according to law or morality",
+    "context": "used when referring to fairness or legal correctness.",
+    "example": "The court worked to deliver justice."
+  },
+  {
+    "word": "keep",
+    "meaning": "to continue having or holding something",
+    "context": "used when maintaining possession or continuing an action.",
+    "example": "Please keep your notes safe."
+  },
+  {
+    "word": "key",
+    "meaning": "something that provides access or solution",
+    "context": "used when referring to an important factor in solving a problem.",
+    "example": "Hard work is the key to success."
+  },
+  {
+    "word": "kind",
+    "meaning": "showing care and consideration",
+    "context": "used to describe someone who is gentle and helpful.",
+    "example": "She is a kind and generous person."
+  },
+  {
+    "word": "knowledge",
+    "meaning": "information and understanding gained through learning",
+    "context": "used when referring to awareness or expertise about a subject.",
+    "example": "Reading books increases knowledge."
+  },
+  {
+    "word": "know",
+    "meaning": "to be aware of or understand something",
+    "context": "used when having information or familiarity with something.",
+    "example": "I know the answer to this question."
+  },
+  {
+    "word": "learn",
+    "meaning": "to gain knowledge or skill through study or experience",
+    "context": "used when acquiring new information or abilities.",
+    "example": "She wants to learn web development."
+  },
+  {
+    "word": "level",
+    "meaning": "a stage or degree of progress or development",
+    "context": "used when referring to position or standard of achievement.",
+    "example": "He reached the next level in the game."
+  },
+  {
+    "word": "life",
+    "meaning": "the condition of living or being alive",
+    "context": "used when talking about existence or daily living.",
+    "example": "She enjoys a peaceful life."
+  },
+  {
+    "word": "limit",
+    "meaning": "a point beyond which something cannot go",
+    "context": "used when describing a boundary or restriction.",
+    "example": "There is a limit to how much you can spend."
+  },
+  {
+    "word": "lead",
+    "meaning": "to guide or direct others",
+    "context": "used when someone is in charge or showing the way.",
+    "example": "She was chosen to lead the team."
+  },
+  {
+    "word": "make",
+    "meaning": "to create or produce something",
+    "context": "used when bringing something into existence.",
+    "example": "She plans to make a new design."
+  },
+  {
+    "word": "manage",
+    "meaning": "to handle or control something successfully",
+    "context": "used when organizing or dealing with tasks or situations.",
+    "example": "He managed the project efficiently."
+  },
+  {
+    "word": "matter",
+    "meaning": "something that is important or requires attention",
+    "context": "used when referring to an issue or concern.",
+    "example": "This is an important matter to discuss."
+  },
+  {
+    "word": "member",
+    "meaning": "a person who belongs to a group",
+    "context": "used when describing someone who is part of an organization or team.",
+    "example": "She is a member of the coding club."
+  },
+  {
+    "word": "mind",
+    "meaning": "the part of a person that thinks and feels",
+    "context": "used when referring to thoughts, ideas, or mental state.",
+    "example": "He changed his mind about the plan."
+  },
+  {
+    "word": "name",
+    "meaning": "a word by which a person or thing is known",
+    "context": "used to identify someone or something.",
+    "example": "Her name is written on the certificate."
+  },
+  {
+    "word": "need",
+    "meaning": "to require something because it is essential",
+    "context": "used when something is necessary.",
+    "example": "We need more time to complete the task."
+  },
+  {
+    "word": "new",
+    "meaning": "recently made or discovered",
+    "context": "used when something is not old or previously used.",
+    "example": "He bought a new laptop."
+  },
+  {
+    "word": "notice",
+    "meaning": "to become aware of something",
+    "context": "used when observing or recognizing something.",
+    "example": "She noticed a mistake in the report."
+  },
+  {
+    "word": "number",
+    "meaning": "a mathematical value used for counting",
+    "context": "used when referring to quantity or amount.",
+    "example": "The number of students increased this year."
+  },
+  {
+    "word": "object",
+    "meaning": "a thing that can be seen or touched",
+    "context": "used when referring to a physical item.",
+    "example": "The object on the table is a book."
+  },
+  {
+    "word": "offer",
+    "meaning": "to present something for someone to accept",
+    "context": "used when giving or proposing something.",
+    "example": "She offered help to her friend."
+  },
+  {
+    "word": "open",
+    "meaning": "not closed or allowing access",
+    "context": "used when something is available or accessible.",
+    "example": "The store is open until 9 PM."
+  },
+  {
+    "word": "order",
+    "meaning": "a request for something or arrangement in a sequence",
+    "context": "used when asking for something or arranging items properly.",
+    "example": "He placed an order for new books."
+  },
+  {
+    "word": "opportunity",
+    "meaning": "a chance to do something",
+    "context": "used when referring to a favorable situation.",
+    "example": "This internship is a great opportunity."
+  },
+  {
+    "word": "part",
+    "meaning": "a piece or portion of something",
+    "context": "used when referring to a section of a whole.",
+    "example": "This chapter is part of the book."
+  },
+  {
+    "word": "people",
+    "meaning": "human beings in general or a group of persons",
+    "context": "used when referring to individuals collectively.",
+    "example": "Many people attended the event."
+  },
+  {
+    "word": "place",
+    "meaning": "a particular position or location",
+    "context": "used when referring to a specific area or spot.",
+    "example": "This park is my favorite place."
+  },
+  {
+    "word": "plan",
+    "meaning": "a detailed proposal for doing something",
+    "context": "used when organizing actions for the future.",
+    "example": "They made a plan for the trip."
+  },
+  {
+    "word": "problem",
+    "meaning": "a situation that needs to be solved",
+    "context": "used when something causes difficulty or concern.",
+    "example": "She solved the math problem quickly."
+  },
+  {
+    "word": "quality",
+    "meaning": "the standard or level of excellence of something",
+    "context": "used when describing how good or well-made something is.",
+    "example": "The product is known for its high quality."
+  },
+  {
+    "word": "question",
+    "meaning": "a sentence or phrase used to ask for information",
+    "context": "used when seeking an answer or clarification.",
+    "example": "She asked an important question in class."
+  },
+  {
+    "word": "quick",
+    "meaning": "happening in a short time",
+    "context": "used when something is done fast.",
+    "example": "He gave a quick response."
+  },
+  {
+    "word": "quiet",
+    "meaning": "making little or no noise",
+    "context": "used when describing silence or calmness.",
+    "example": "The room was quiet during the exam."
+  },
+  {
+    "word": "quite",
+    "meaning": "to a certain extent or degree",
+    "context": "used to emphasize something moderately.",
+    "example": "The movie was quite interesting."
+  },
+  {
+    "word": "reason",
+    "meaning": "a cause or explanation for something",
+    "context": "used when explaining why something happens.",
+    "example": "There is a reason for his decision."
+  },
+  {
+    "word": "receive",
+    "meaning": "to get or be given something",
+    "context": "used when accepting something that is sent or offered.",
+    "example": "She received a gift from her friend."
+  },
+  {
+    "word": "result",
+    "meaning": "an outcome or effect of an action",
+    "context": "used when describing the consequence of something.",
+    "example": "Hard work often leads to good results."
+  },
+  {
+    "word": "right",
+    "meaning": "correct or morally good",
+    "context": "used when something is accurate or fair.",
+    "example": "You gave the right answer."
+  },
+  {
+    "word": "rule",
+    "meaning": "an official instruction or guideline",
+    "context": "used when referring to regulations or principles.",
+    "example": "Follow the rules of the classroom."
+  },
+  {
+    "word": "safe",
+    "meaning": "free from danger or harm",
+    "context": "used when describing protection from risk.",
+    "example": "The children are safe inside the house."
+  },
+  {
+    "word": "save",
+    "meaning": "to keep something for future use",
+    "context": "used when storing money, time, or resources.",
+    "example": "She decided to save money for a new phone."
+  },
+  {
+    "word": "school",
+    "meaning": "a place where students receive education",
+    "context": "used when referring to an institution for learning.",
+    "example": "He goes to school every morning."
+  },
+  {
+    "word": "share",
+    "meaning": "to give part of something to others",
+    "context": "used when distributing or expressing something with others.",
+    "example": "She likes to share her ideas."
+  },
+  {
+    "word": "success",
+    "meaning": "the achievement of a goal",
+    "context": "used when reaching a desired result.",
+    "example": "Hard work leads to success."
+  },
+  {
+    "word": "take",
+    "meaning": "to get or carry something from one place to another",
+    "context": "used when moving or receiving something.",
+    "example": "Please take this book with you."
+  },
+  {
+    "word": "teach",
+    "meaning": "to give knowledge or instruction",
+    "context": "used when helping someone learn something.",
+    "example": "She teaches mathematics at the school."
+  },
+  {
+    "word": "team",
+    "meaning": "a group of people working together",
+    "context": "used when individuals cooperate toward a common goal.",
+    "example": "Our team won the competition."
+  },
+  {
+    "word": "think",
+    "meaning": "to use the mind to consider something",
+    "context": "used when forming ideas or opinions.",
+    "example": "I think this plan will work."
+  },
+  {
+    "word": "time",
+    "meaning": "the ongoing sequence of events",
+    "context": "used when referring to moments or duration.",
+    "example": "We need more time to finish the task."
+  },
+  {
+    "word": "understand",
+    "meaning": "to know the meaning of something",
+    "context": "used when comprehending information or ideas.",
+    "example": "I understand the lesson clearly."
+  },
+  {
+    "word": "unit",
+    "meaning": "a single part of a larger whole",
+    "context": "used when referring to one section or element of something.",
+    "example": "This chapter is one unit of the course."
+  },
+  {
+    "word": "use",
+    "meaning": "to employ something for a purpose",
+    "context": "used when applying something to achieve a result.",
+    "example": "She uses her laptop for studying."
+  },
+  {
+    "word": "usual",
+    "meaning": "happening regularly or normally",
+    "context": "used when something occurs in a typical way.",
+    "example": "He arrived at his usual time."
+  },
+  {
+    "word": "useful",
+    "meaning": "helpful or beneficial",
+    "context": "used when something serves a good purpose.",
+    "example": "This guide is very useful for beginners."
+  },
+  {
+    "word": "value",
+    "meaning": "the importance or worth of something",
+    "context": "used when describing how useful or meaningful something is.",
+    "example": "Education has great value in life."
+  },
+  {
+    "word": "variety",
+    "meaning": "a range of different things",
+    "context": "used when there are many different types available.",
+    "example": "The store offers a variety of products."
+  },
+  {
+    "word": "view",
+    "meaning": "an opinion or the ability to see something",
+    "context": "used when expressing a perspective or sight.",
+    "example": "She shared her view on the topic."
+  },
+  {
+    "word": "visit",
+    "meaning": "to go to see a person or place",
+    "context": "used when traveling to meet someone or see a location.",
+    "example": "We plan to visit our grandparents."
+  },
+  {
+    "word": "voice",
+    "meaning": "the sound produced when speaking",
+    "context": "used when referring to speech or expression.",
+    "example": "She spoke in a calm voice."
+  },
+  {
+    "word": "wait",
+    "meaning": "to stay in a place until something happens",
+    "context": "used when remaining somewhere until an event occurs.",
+    "example": "Please wait for your turn."
+  },
+  {
+    "word": "walk",
+    "meaning": "to move forward on foot",
+    "context": "used when traveling by stepping with your feet.",
+    "example": "She likes to walk in the evening."
+  },
+  {
+    "word": "want",
+    "meaning": "to desire something",
+    "context": "used when expressing a wish or need.",
+    "example": "I want to learn programming."
+  },
+  {
+    "word": "work",
+    "meaning": "to do tasks or activities to achieve a result",
+    "context": "used when performing a job or effort.",
+    "example": "He works hard every day."
+  },
+  {
+    "word": "world",
+    "meaning": "the earth and all people and things on it",
+    "context": "used when referring to the planet or global community.",
+    "example": "Technology is changing the world."
+  },
+  {
+    "word": "x-ray",
+    "meaning": "a type of radiation used to see inside the body",
+    "context": "used in medical settings to examine bones and internal structures.",
+    "example": "The doctor ordered an x-ray of his arm."
+  },
+  {
+    "word": "xenon",
+    "meaning": "a chemical element used in lighting and electronics",
+    "context": "used when referring to a noble gas in scientific applications.",
+    "example": "Xenon is used in high-intensity lamps."
+  },
+  {
+    "word": "xerox",
+    "meaning": "a copy of a document made by a machine",
+    "context": "used when referring to photocopying something.",
+    "example": "Please take a xerox of this paper."
+  },
+  {
+    "word": "xylophone",
+    "meaning": "a musical instrument made of wooden bars",
+    "context": "used when referring to a percussion instrument.",
+    "example": "The child played the xylophone in music class."
+  },
+  {
+    "word": "x-axis",
+    "meaning": "the horizontal line in a graph",
+    "context": "used in mathematics to represent one dimension of a coordinate system.",
+    "example": "Plot the values along the x-axis."
+  },
+  {
+    "word": "year",
+    "meaning": "a period of twelve months",
+    "context": "used when referring to a full calendar cycle.",
+    "example": "She graduated last year."
+  },
+  {
+    "word": "young",
+    "meaning": "having lived for a short time",
+    "context": "used when describing someone at an early stage of life.",
+    "example": "He is a young and talented student."
+  },
+  {
+    "word": "your",
+    "meaning": "belonging to you",
+    "context": "used to show possession.",
+    "example": "Is this your notebook?"
+  },
+  {
+    "word": "yellow",
+    "meaning": "a bright color between green and orange",
+    "context": "used when describing the color of something.",
+    "example": "She wore a yellow dress."
+  },
+  {
+    "word": "yesterday",
+    "meaning": "the day before today",
+    "context": "used when referring to the previous day.",
+    "example": "We had a meeting yesterday."
+  },
+  {
+    "word": "zero",
+    "meaning": "the number 0; nothing in quantity",
+    "context": "used when referring to the absence of something.",
+    "example": "The temperature dropped to zero degrees."
+  },
+  {
+    "word": "zone",
+    "meaning": "an area or region with a particular purpose",
+    "context": "used when dividing places into sections.",
+    "example": "This area is a no-parking zone."
+  },
+  {
+    "word": "zoo",
+    "meaning": "a place where animals are kept for display",
+    "context": "used when referring to a public animal park.",
+    "example": "We visited the zoo during the weekend."
+  },
+  {
+    "word": "zoom",
+    "meaning": "to move quickly or enlarge an image",
+    "context": "used when increasing speed or magnifying something.",
+    "example": "The camera can zoom in on distant objects."
+  },
+  {
+    "word": "zeal",
+    "meaning": "great energy or enthusiasm",
+    "context": "used when showing strong passion for something.",
+    "example": "She worked with great zeal on the project."
+  }
+]
