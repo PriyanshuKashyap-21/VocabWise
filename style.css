@@ -151,3 +151,37 @@ button:hover {
     text-align: center;
 }
 
+@media (max-width: 600px) {
+
+    /* Container full width */
+    .card-section,
+    .button-container {
+        width: 90%;
+    }
+
+    /* Title fix */
+    h1 {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    /* Search bar */
+    #searchInput {
+        width: 90%;
+        font-size: 14px;
+    }
+
+    /* Buttons stack */
+    .button-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Buttons full width */
+    #PrevBtn,
+    #NextBtn {
+        width: 100%;
+    }
+
+}
+
