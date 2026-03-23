@@ -12,8 +12,8 @@ function showHome(){
 
     wordsContainer.innerHTML = `
     <div class="welcome">
-        <h2>✨ Welcome to Vocabulary App</h2>
-        <p>Click Next to explore words 😊</p>
+        <h2>✨ Welcome to VocabWise</h2>
+        <p>Click Next to explore words ➡️</p>
     </div>
     `;
 
