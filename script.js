@@ -148,7 +148,7 @@ function showWords(data) {
         wordsContainer.innerHTML = `
         <div class="end-message">
             <h3>✨ That's all for now!</h3>
-            <p>More words will be added in the future 😊</p>
+            <p>More words will be added in the future...</p>
         </div>
         `;
 
